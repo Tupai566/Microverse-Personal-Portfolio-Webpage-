@@ -1,0 +1,19 @@
+#navbar{
+  color: brown;
+  padding: 5px;
+  position: fixed;
+  direction: flex;
+
+}
+#welcome-section{
+  color: blue;
+  background-color: rgb(250, 215, 248);
+background-image: url(images/dark-black-violin);
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
